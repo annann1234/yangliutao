@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Curriculum Vitae"
+author: "YANG Liutao"
+categories: cv
+tags: [CV]
+image: mountains.jpg
+---
 
 Education
 ======
