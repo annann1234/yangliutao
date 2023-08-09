@@ -5,7 +5,7 @@ permalink: /welcome
 ---
 
 ### About the Author
-{% post_url about-the-author %}
+{% post_url aboutme %}
 
 ### CV
 
