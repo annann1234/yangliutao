@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Working Paper
+permalink: /workingpaper
+---
 
 
   <ul> Optimizing Queues When Customers Commit the Sunk Cost Fallacy (2021) 
