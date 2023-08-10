@@ -5,7 +5,7 @@ permalink: /welcome
 ---
 
 ### About the Author
-{% post_url 2023-08-09-aboutme %}
+{% post_url 2023-08-09-welcome %}
 
 ### Hobbies
 
