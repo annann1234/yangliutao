@@ -10,7 +10,7 @@ menu:
 - {name: 'Education',   url: 'education.html'}
 - {name: 'Contact', url: 'contact.html'}
 - {name: 'Working Paper', url: 'workingpaper.html'}
-- {name: 'Teaching Assistant', url: 'TA.html'}
+- {name: 'Teaching Assistant', url: 'ta.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
