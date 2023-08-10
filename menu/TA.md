@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Teaching Assistant
+permalink: /ta
+---
 
 
 * LGT2106 Principles of Operations Management, instructor: Prof. PANG KW Anthony, Autumn 2023.    
