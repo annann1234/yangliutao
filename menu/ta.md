@@ -10,6 +10,6 @@ PhD level:
 MSc level:
 * LGT5105 Managing Operations Systems, instructor: Dr. WU Shining, Autumn 2020, Autumn 2021, Autumn 2022, Spring 2022.
 
-Undergraduate level:
+BSc level:
 * LGT2106 Principles of Operations Management, instructor: Prof. PANG KW Anthony, Autumn 2023.    
 
