@@ -6,7 +6,7 @@ permalink: /publications
 
 
 Working Paper
-* <ul> Wu, S., & Yang, L. (2021). Optimizing Queues When Customers Commit the Sunk Cost Fallacy. Available at SSRN 3937766.</ul>
+* Wu, S., & Yang, L. (2021). Optimizing Queues When Customers Commit the Sunk Cost Fallacy. Available at SSRN 3937766.
 
 Presentations
 * “Optimizing Queues When Customers Commit the Sunk Cost Fallacy” at INFORMS Annual Meeting, Phoenix, Arizona, USA, Oct 2023.
