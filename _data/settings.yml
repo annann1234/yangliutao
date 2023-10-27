@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'About Me',   url: 'aboutme.html'}
 - {name: 'Education',   url: 'education.html'}
-- {name: 'Publications', url: 'publications.html'}
+- {name: 'Research', url: 'research.html'}
 - {name: 'Teaching Assistant', url: 'ta.html'}
 - {name: 'Contact', url: 'contact.html'}
 
