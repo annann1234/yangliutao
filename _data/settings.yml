@@ -11,6 +11,7 @@ menu:
 - {name: 'Education',   url: 'education.html'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Teaching', url: 'teaching.html'}
+- {name: 'Others', url: 'others.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
