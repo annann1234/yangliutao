@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching
 ---
-###Teaching Assistant
+### Teaching Assistant
 
 PhD level:
 * LGT6006 Statistics and Game Theoretic Methods for Business Analysis and Decisions, instructor: Prof. JIANG Li, Autumn 2021. 
