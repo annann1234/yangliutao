@@ -1,4 +1,3 @@
-![image](https://github.com/annann1234/yangliutao/assets/36989875/de546d65-a7a2-4054-aedf-364313f6c68f)---
 layout: page
 title: Others
 permalink: /others
