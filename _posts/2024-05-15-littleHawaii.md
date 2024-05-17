@@ -7,3 +7,4 @@ tags: [hiking]
 image: littleHawaii.jpg
 ---
 
+Little Hawaii trail in Hong Kong.
