@@ -6,6 +6,8 @@ permalink: /research
 
 
 Working Paper
+* Yang, L., &  Wu, S. (2024). Online Learning Algorithms for Multi-product Inventory Systems with Shipping Costs.
+* Yang, L., &  Wu, S. (2024). Multi-product Inventory Control with Consideration of Shipping Costs.
 * Wu, S., & Yang, L. (2021). Optimizing Queues When Customers Commit the Sunk Cost Fallacy. Available at **SSRN 3937766**.
 
 Presentations
