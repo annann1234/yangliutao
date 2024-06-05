@@ -4,7 +4,7 @@ title: "Welcome"
 author: "YANG Liutao"
 categories: welcome
 tags: [welcome]
-image: profilePhoto.png
+image: profile_photo.jpeg
 ---
 
 Welcome to my homepage!
