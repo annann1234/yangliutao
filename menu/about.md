@@ -4,9 +4,9 @@ title: Welcome to My Homepage!
 permalink: /welcome
 ---
 
-### ProfilePhoto
+### Welcome
 
-{% post_url 2024-06-05-profilePhoto %}
+{% post_url 2024-06-05-welcome %}
 
 ### Little Hawaii Hiking
 
