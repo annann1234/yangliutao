@@ -6,7 +6,11 @@ permalink: /welcome
 
 ### Welcome
 
-{% post_url 2024-06-05-welcome %}
+{% post_url 2024-06-30-welcome %}
+
+### Cape D'Aguilar
+
+{% post_url 2024-06-26-cape_daguilar %}
 
 ### Little Hawaii Hiking
 
