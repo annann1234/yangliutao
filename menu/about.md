@@ -6,7 +6,7 @@ permalink: /welcome
 
 ### Welcome
 
-{% post_url 2024-06-30-welcome %}
+{% post_url 2024-07-30-welcome %}
 
 ### Hakodate
 
