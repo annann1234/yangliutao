@@ -12,7 +12,7 @@ permalink: /welcome
 
 {% post_url 2024-06-26-cape_daguilar %}
 
-### Little Hawaii Hiking
+### Little Hawaii Trail
 
 {% post_url 2024-05-15-littleHawaii %}
 
