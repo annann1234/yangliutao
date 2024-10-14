@@ -7,7 +7,7 @@ permalink: /teaching
 
 PhD level:
 * LGT6006 Statistics and Game Theoretic Methods for Business Analysis and Decisions, instructor: Prof. JIANG Li, Autumn 2021. 
-* LGT6201 Optimization Models and Methodologies, instructor: Prof. JIANG Li, Autumn 2022, Autumn 2023.
+* LGT6201 Optimization Models and Methodologies, instructor: Prof. JIANG Li, Autumn 2022, Autumn 2023, Autumn 2024.
 
 MSc level:
 * LGT5105 Managing Operations Systems, instructor: Dr. WU Shining, Autumn 2020, Autumn 2021, Autumn 2022, Spring 2022.
