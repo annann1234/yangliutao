@@ -12,10 +12,6 @@ permalink: /welcome
 
 {% post_url 2024-06-26-cape_daguilar %}
 
-### Little Hawaii Trail
-
-{% post_url 2024-05-15-littleHawaii %}
-
 ### Taipei
 
 {% post_url 2023-12-11-taipei %}
