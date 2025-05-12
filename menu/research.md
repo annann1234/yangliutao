@@ -8,10 +8,12 @@ Research Interest
 * Methodologies: Machine learning, online convex optimization, stochastic processes
 * Research areas: Inventory and supply chain management, sustainable operations, queueing systems
 
+Publication
+* Wu, S., & Yang, L. (2021). Optimizing Queues When Customers Commit the Sunk Cost Fallacy. Available at **SSRN 3937766**.
+
 Working Paper
 * Yang, L., &  Wu, S. (2024). Online Learning Algorithms for Multi-product Inventory Systems with Shipping Costs.
 * Yang, L., &  Wu, S. (2024). Multi-product Inventory Control with Consideration of Shipping Costs.
-* Wu, S., & Yang, L. (2021). Optimizing Queues When Customers Commit the Sunk Cost Fallacy. Available at **SSRN 3937766**.
 
 Presentations
 * “Learning-Based Algorithms for Multi-Product Inventory Control: The Value of Incorporating Order Fulfillment Dynamics into Inventory Planning” at **_The 15th Production and Operations Management Society - Hong Kong Chapter International Conference (POMS HK)_**, Hong Kong SAR, Jan 2025.
