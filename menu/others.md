@@ -3,6 +3,9 @@ layout: page
 title: Others
 permalink: /others
 ---
+### Skills
+* Mathematical modeling, stochastic process, statistics, algebra, online convex optimization, Python
+
 ### Awards
 * Student Scholarship (Full scholarship for good academic merits), 2019-2024
 * Second-prize Scholarship of Top Talents in Applied Mathematics, 2014
