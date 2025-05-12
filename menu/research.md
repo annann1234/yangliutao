@@ -4,6 +4,9 @@ title: Research
 permalink: /research
 ---
 
+Research Interest
+* Methodologies: Machine learning, online convex optimization, stochastic processes
+* Research areas: Inventory and supply chain management, sustainable operations, queueing systems
 
 Working Paper
 * Yang, L., &  Wu, S. (2024). Online Learning Algorithms for Multi-product Inventory Systems with Shipping Costs.
