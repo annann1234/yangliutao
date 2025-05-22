@@ -7,7 +7,7 @@ permalink: /aboutme
 
 Hi, I'm Liutao, a Ph.D. graduated from PolyU, Hong Kong. My advisors are [Dr. WU Shining](https://www.polyu.edu.hk/lms/people/academic-staff/shining-wu/) and [Prof. JIANG Li](https://bs.ustc.edu.cn/chinese/profile-2563.html). My area of interest is Operations Management Modelling. Specifically, I'm interested in e-commerce businesses, inventory and supply chain management, data-driven optimization, and approximation algorithms.
 
-My skill set includes:
+### My skill set includes:
 * Microeconomic theory
 * Game theory
 * Statistical inference
