@@ -6,7 +6,7 @@ permalink: /welcome
 
 ### Seeking Job Opportunities
 
-{% post_url 20205-25-open_to_work %}
+{% post_url 2025-25-open_to_work %}
 
 
 ### Welcome
