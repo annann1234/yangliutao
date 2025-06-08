@@ -15,7 +15,7 @@ permalink: /welcome
 
 ### Ideas
 
-{% post_url 2024-07-23-ideas %}
+{% post_url 2024-07-23-miscellanea %}
 
 ### Cape D'Aguilar
 
