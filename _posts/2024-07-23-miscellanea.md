@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ideas"
+title: "Miscellanea"
 author: "YANG Liutao"
-categories: idea
-tags: [idea]
+categories: miscellanea
+tags: [miscellanea]
 image: idea.jpg
 ---
 
