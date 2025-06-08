@@ -13,6 +13,10 @@ permalink: /welcome
 
 {% post_url 2024-07-24-welcome %}
 
+### Ideas
+
+{% post_url 2024-07-23-ideas %}
+
 ### Cape D'Aguilar
 
 {% post_url 2024-06-26-cape_daguilar %}
