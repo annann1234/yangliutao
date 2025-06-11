@@ -4,16 +4,11 @@ title: Welcome to My Homepage!
 permalink: /welcome
 ---
 
-### Seeking Job Opportunities
-
-{% post_url 2025-05-25-open_to_work %}
-
-
 ### Welcome
 
 {% post_url 2024-07-24-welcome %}
 
-### Ideas
+### Miscellanea
 
 {% post_url 2024-07-23-miscellanea %}
 
