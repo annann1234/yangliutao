@@ -10,7 +10,7 @@ permalink: /welcome
 
 ### Gallery
 
-{% post_url 2025-08-26-Gallery %}
+{% post_url 2025-08-26-gallery %}
 
 ### Hobbies
 
