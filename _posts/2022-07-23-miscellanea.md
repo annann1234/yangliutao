@@ -7,6 +7,6 @@ tags: [miscellanea]
 image: idea.jpg
 ---
 
-* If you aren't getting rejected on a daily basis, your goals aren't ambitious enough.
-
 * Success is going from failure to failure without losing enthusiasm.
+
+* 路虽远，行则将至。
